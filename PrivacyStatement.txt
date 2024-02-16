@@ -2,6 +2,8 @@ This is the Privacy Statement for the BirdUp Access app.
 
 The BirdUp Access app does not access, collect, or transmit personal information.
 
-The app stores the player's choices made in the Settings pages in the app. The app also stores audio recordings triggered by the user as part of bird identification, and the user can delete these stored recordings at any time.
+The app stores the player's choices made in the Settings pages in the app. 
+
+The app also stores audio recordings triggered by the user as part of bird identification. These recordings are stored locally on the device, and are not transmitted off the device by the app. The  user can delete these stored recordings from their device at any time.
 
 To learn more about the app please visit https://www.linkedin.com/pulse/accessibility-birds-guy-barker-a8eee.
