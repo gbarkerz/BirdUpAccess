@@ -23,26 +23,6 @@ The following are potential reasons why the BirdUp Access app might not be able 
 As such, to get the best results, try to have the app hear only the bird song, and as loud as possible.
 
 <img src="/assets/images/BUA_Default_BirdMatch.jpg" alt="TBD" width="270" height="600">
-<img src="/assets/images/BUA_Default_BirdDetails.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_Default_BirdList.jpg" alt="TBD" height="1200">
-
-<img src="/assets/images/BUA_LargeFont_BirdMatch.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_LargeFont_BirdDetails.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_LargeFont_BirdList.jpg" alt="TBD" height="1200">
-
-<img src="/assets/images/BUA_DarkMode_BirdDetails.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_DarkMode_BirdList.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_DarkMode_BirdMatch.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_DarkMode_Session.jpg" alt="TBD" height="1200">
-
-<img src="/assets/images/BUA_TalkBack_BirdDetails.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_TalkBack_BirdList.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_TalkBack_BirdMatch.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_TalkBack_Session.jpg" alt="TBD" height="1200">
-
-<img src="/assets/images/BUA_VoiceAccess.jpg" alt="TBD" height="1200">
-<img src="/assets/images/BUA_Magnification.jpg" alt="TBD" height="1200">
-
 
 # Sessions and Recordings
 
@@ -50,9 +30,13 @@ Every time the app is started, it creates a new session which can be accessed th
 
 All recordings are stored locally on the device, and can be permanently deleted at any time. You may want to consider deleting sessions and recordings which contain no matches in order to make it more efficient to access sessions that do have matches.
 
+<img src="/assets/images/BUA_Default_BirdDetails.jpg" alt="TBD" width="270" height="600">
+
 # Birds and Habitats
 
 The app has a currently selected habitat (for example, “Netherland and Belgium Gardens), and with each habitat has a list of associated birds. Please select a current habitat that’s the closest match to your actual location, otherwise there’s an increased chance that a bird heard by the app won’t be in the list of birds it will use to attempt a match. For example, if the current habitat is “UK Parks and Gardens” and a honking Canada Goose flies overhead, a match will not be found as the Canada Goose in not in the list of birds associated with the “UK Parks and Gardens” habitat.
+
+<img src="/assets/images/BUA_Default_BirdList.jpg" alt="TBD" width="270" height="600">
 
 # Settings
 
@@ -66,9 +50,18 @@ Important: Due to a limitation in the technology on which the BirdUp Access app 
 
 Note that the list of matched birds shown on the “Listen” page is sorted by how confident the app is in each match, so the highest confidence matches are at the top of the list. This means that if the full list of matches does not fit on the screen, the list might not appear to change when a new match is added to the list.
 
+<img src="/assets/images/BUA_LargeFont_BirdMatch.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_LargeFont_BirdDetails.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_LargeFont_BirdList.jpg" alt="TBD" width="270" height="600">
+
 # Dark mode
 
 The app shows a different set of colours depending on whether the device’s “Dark mode setting” is “Light” or “Dark”. The colours shown on the chart when listening for bird song are configurable through the app’s “Chart settings”.
+
+<img src="/assets/images/BUA_DarkMode_BirdDetails.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_DarkMode_BirdList.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_DarkMode_BirdMatch.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_DarkMode_Session.jpg" alt="TBD" width="270" height="600">
 
 # TalkBack
 
@@ -82,6 +75,11 @@ When action is taken in the app which immediately triggers the app to listen (fo
 
 Important: The app attempts to avoid some opportunities for TalkBack’s announcements being considered as noise which should be analysed for a potential bird song match. For example, when a match is found when listening for a bird, the app stops listening for 3 seconds, giving TalkBack a chance to make the match announcement. It is recommended that you don’t move TalkBack around the app while the app is listening for birds. Rather, once a match is found, stop the app listening for birds, and then explore the match results. Today if TalkBack does make extended announcements while listening for birds, the app might incorrectly announce a low confidence match with a bird such as a jackdaw.
 
+<img src="/assets/images/BUA_TalkBack_BirdDetails.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_TalkBack_BirdList.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_TalkBack_BirdMatch.jpg" alt="TBD" width="270" height="600">
+<img src="/assets/images/BUA_TalkBack_Session.jpg" alt="TBD" width="270" height="600">
+
 
 Other accessible-related features available on your device, (for example, Speech input and Magnification), will behave in the standard way in the BirdUp Access app.
 
@@ -91,8 +89,11 @@ The Voice Access feature on the device can interact with the text and buttons in
 
 Note that if a list item has two different numbers shown on it, and speaking one of those numbers only selects the item without clicking it, try speaking the other number.
 
+<img src="/assets/images/BUA_VoiceAccess.jpg" alt="TBD" width="270" height="600">
+
 # Magnification
 
 The app takes no specific action relating to the device’s Magnification feature, and Magnification works in the standard way at the app.
 
+<img src="/assets/images/BUA_Magnification.jpg" alt="TBD" width="270" height="600">
 
