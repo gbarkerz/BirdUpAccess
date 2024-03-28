@@ -22,7 +22,7 @@ The following are potential reasons why the BirdUp Access app might not be able 
 
 As such, to get the best results, try to have the app hear only the bird song, and as loud as possible.
 
-<img src="/assets/images/BUA_Default_BirdMatch.jpg" alt="TBD" width="540" height="1200">
+<img src="/assets/images/BUA_Default_BirdMatch.jpg" alt="TBD" width="270" height="600">
 <img src="/assets/images/BUA_Default_BirdDetails.jpg" alt="TBD" height="1200">
 <img src="/assets/images/BUA_Default_BirdList.jpg" alt="TBD" height="1200">
 
