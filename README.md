@@ -22,26 +22,26 @@ The following are potential reasons why the BirdUp Access app might not be able 
 
 As such, to get the best results, try to have the app hear only the bird song, and as loud as possible.
 
-![TBD](/assets/images/BUA_Default_BirdMatch.jpg "TBD")
-![TBD](/assets/images/BUA_Default_BirdDetails.jpg "TBD")
-![TBD](/assets/images/BUA_Default_BirdList.jpg "TBD")
+<img src="/assets/images/BUA_Default_BirdMatch.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_Default_BirdDetails.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_Default_BirdList.jpg" alt="TBD" height="1200">
 
-![TBD](/assets/images/BUA_LargeFont_BirdMatch.jpg "TBD")
-![TBD](/assets/images/BUA_LargeFont_BirdDetails.jpg "TBD")
-![TBD](/assets/images/BUA_LargeFont_BirdList.jpg "TBD")
+<img src="/assets/images/BUA_LargeFont_BirdMatch.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_LargeFont_BirdDetails.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_LargeFont_BirdList.jpg" alt="TBD" height="1200">
 
-![TBD](/assets/images/BUA_DarkMode_BirdDetails.jpg "TBD")
-![TBD](/assets/images/BUA_DarkMode_BirdList.jpg "TBD")
-![TBD](/assets/images/BUA_DarkMode_BirdMatch.jpg "TBD")
-![TBD](/assets/images/BUA_DarkMode_Session.jpg "TBD")
+<img src="/assets/images/BUA_DarkMode_BirdDetails.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_DarkMode_BirdList.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_DarkMode_BirdMatch.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_DarkMode_Session.jpg" alt="TBD" height="1200">
 
-![TBD](/assets/images/BUA_TalkBack_BirdDetails.jpg "TBD")
-![TBD](/assets/images/BUA_TalkBack_BirdList.jpg "TBD")
-![TBD](/assets/images/BUA_TalkBack_BirdMatch.jpg "TBD")
-![TBD](/assets/images/BUA_TalkBack_Session.jpg "TBD")
+<img src="/assets/images/BUA_TalkBack_BirdDetails.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_TalkBack_BirdList.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_TalkBack_BirdMatch.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_TalkBack_Session.jpg" alt="TBD" height="1200">
 
-![TBD](/assets/images/BUA_VoiceAccess.jpg "TBD")
-![TBD](/assets/images/BUA_Magnification.jpg "TBD")
+<img src="/assets/images/BUA_VoiceAccess.jpg" alt="TBD" height="1200">
+<img src="/assets/images/BUA_Magnification.jpg" alt="TBD" height="1200">
 
 
 # Sessions and Recordings
